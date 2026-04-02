@@ -95,7 +95,6 @@ vim.opt.tabstop = 4 -- A TAB character in the file will look like 4 spaces
 vim.opt.shiftwidth = 4 -- Indents will have a width of 4 spaces
 vim.opt.expandtab = true -- Pressing the TAB key will insert spaces instead of a TAB character
 vim.opt.softtabstop = 4 -- Number of spaces to insert/delete when pressing <Tab> or <BS>
-
 -- Set to true if you have a Nerd Font installed and selected in the terminal
 vim.g.have_nerd_font = true
 
